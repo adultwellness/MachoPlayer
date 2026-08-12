@@ -16,7 +16,7 @@ greater file import/export compatibility (currently loads and saves .madk perfec
 MIDI in and out work internally but i lack the equipment to test it better \
 no VST support (seems like a project larger than i'm willing to take on) \
 no audio export (yet, soon) \
-codebase is a mess \
+i have no idea what i'm doing \
 needs testing on different hardware and os versions \
 documentation \
 a bunch of tiny bugs 
