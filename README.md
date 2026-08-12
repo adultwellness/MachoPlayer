@@ -25,7 +25,7 @@ intentional changes: \
 space bar toggles transport \
 esc key toggles recording in the digital editor \
 (you're welcome renoise users) \
-\ toggles loop pattern on an off \
+\ toggles loop pattern on off \
 basic saturation filter for samples \
 basic built in effects in the mixer \
 more modern audio/midi settings/routing 
