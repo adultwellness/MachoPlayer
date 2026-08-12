@@ -7,7 +7,7 @@ this was made (likely poorly and near entirely) with AI
 i've contributed less than 10 lines of code and a lot of debug effort
 would love for someone with actual programming knowledge to take over
 
-should build and run on mac os 11+
+should build and run on mac os 11+ intel and arm
 
 what still needs work:
 no live audio recording of new samples
