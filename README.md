@@ -1,11 +1,11 @@
 currently unfinished but sorta usable \
-all creative and technical credit goes to Antoine Rosset and C.W. Betts  \
+all creative and technical credit goes to Antoine Rosset and C.W. Betts  
 
 original DSP code and artwork has been maintained as much as possible
 
 this was made (likely poorly and near entirely) with AI \
 i've contributed less than 10 lines of code and a lot of debug effort \
-would love for someone with actual programming knowledge to take over \
+would love for someone with actual programming knowledge to take over 
 
 should build and run on mac os 11+ intel and arm
 
@@ -28,8 +28,8 @@ esc key toggles recording in the digital editor \
 \ toggles loop pattern on an off \
 basic saturation filter for samples \
 basic built in effects in the mixer \
-more modern audio/midi settings/routing \
+more modern audio/midi settings/routing 
 
 currently this is more stable than the original application on my G3 mac on os 9.2.2 and some of the more major bugs in the original are fixed \
 madk files are mostly interchangeable between classic and modern hardware \
-still needs work but feels like using PlayerPro 5.9.8 :) \
+still needs work but feels like using PlayerPro 5.9.8 :) 
