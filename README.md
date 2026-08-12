@@ -3,9 +3,9 @@ all creative and technical credit goes to Antoine Rosset and C.W. Betts
 
 original DSP code and artwork has been maintained as much as possible
 
-this was made (likely poorly and near entirely) with AI \
+this was made (likely poorly and near entirely) with AI (know your enemy) \
 i've contributed less than 10 lines of code and a lot of debug effort \
-would love for someone with actual programming knowledge to take over 
+would love for someone with real programming knowledge to fork and take over development 
 
 should build and run on mac os 11+ intel and arm
 
