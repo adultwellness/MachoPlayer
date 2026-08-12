@@ -32,4 +32,4 @@ more modern audio/midi settings/routing
 
 currently this is more stable than the original application on my G3 mac on os 9.2.2 and some of the more major bugs in the original are fixed \
 madk files are mostly interchangeable between classic and modern hardware \
-still needs work but feels like using PlayerPro 5.9.8 :) 
+still needs work but feels like using PlayerPro 5.9 :) 
