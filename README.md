@@ -1,10 +1,10 @@
-currently unfinished but sorta usable \
+currently unfinished but usable \
 all creative and technical credit goes to Antoine Rosset and C.W. Betts  
 
 original DSP code and artwork has been maintained as much as possible
 
 this was made (likely poorly and near entirely) with AI (know your enemy) \
-i've contributed less than 10 lines of code and a lot of debug effort \
+i've contributed less than 10 lines of code and some debug effort \
 would love for someone with real programming knowledge to fork and take over development 
 
 should build and run on mac os 11+ intel and arm
@@ -26,7 +26,7 @@ space bar toggles transport \
 esc key toggles recording in the digital editor \
 (you're welcome renoise users) \
 \ toggles loop pattern on off \
-basic saturation filter for samples \
+basic saturation and eq filter for samples \
 basic built in effects in the mixer \
 more modern audio/midi settings/routing 
 
