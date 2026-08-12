@@ -1,4 +1,4 @@
-currently unfinished but usable \
+unfinished alpha but usable \
 all creative and technical credit goes to Antoine Rosset and C.W. Betts  
 
 original DSP code and artwork has been maintained as much as possible
