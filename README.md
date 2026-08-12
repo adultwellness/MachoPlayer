@@ -4,6 +4,7 @@ all creative and technical credit goes to Antoine Rosset and C.W. Betts
 original DSP code and artwork has been maintained as much as possible
 
 this was made (likely poorly and near entirely) with AI (know your enemy) from the PlayerPro 5.9.8 source code with the audio engine from Betts's later Core Audio port \
+named after the PPMacho xproj file
 i've contributed less than 10 lines of code and some debug effort \
 would love for someone with real programming knowledge to fork and take over development 
 
