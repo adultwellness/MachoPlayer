@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>MachoPlayer</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mad</string><string>madi</string><string>madk</string><string>madh</string><string>madg</string>
+				<string>mod</string><string>xm</string><string>it</string><string>s3m</string><string>mtm</string>
+				<string>669</string><string>amf</string><string>dmf</string><string>med</string><string>ult</string><string>okt</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>MachoPlayer Music</string>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>MachoPlayer</string>
+	<key>CFBundleIconFile</key>
+	<string>PlayerPROIcons.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.quadmation.machoplayer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MachoPlayer</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.9</string>
+	<key>CFBundleVersion</key>
+	<string>5.9</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSRequiresAquaSystemAppearance</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 1990–2002 Antoine Rosset. MachoPlayer 5.9 macOS 11+ port.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>
